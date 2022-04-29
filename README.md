@@ -1,7 +1,7 @@
 # Atividade de Projeto Estruturado 11 - APE11
 
  
-**Acadêmico:** Oliver Pedroso
+**Acadêmico:** Oliver Christovão Pedroso
 **RA:** 09017108
 
 **1. O que é Git?**
